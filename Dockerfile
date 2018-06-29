@@ -1,5 +1,4 @@
 FROM tensorflow/tensorflow:1.7.0-gpu
-MAINTAINER ponteineptique <thibault.clerice[@]chartes.psl.eu>
 
 # Python version
 RUN python -v
